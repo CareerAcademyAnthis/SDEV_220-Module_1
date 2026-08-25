@@ -1,2 +1,3 @@
 # SDEV_220-Module_1
 Module 1 of the SDEV 220 Fall 2026 Course
+This is the location for all the files for Module 1
